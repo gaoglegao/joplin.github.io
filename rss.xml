@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title></title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 20 Apr 2022 15:19:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[自然常数e]]></title>
+            <guid>8f9be0c2ea814847a1a2c2155786e480</guid>
+            <pubDate>Wed, 16 Dec 2020 10:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a title="http://www.xinhuanet.com/science/2019-09/18/c_138414164.htm" href="http://www.xinhuanet.com/science/2019-09/18/c_138414164.htm">http://www.xinhuanet.com/science/2019-09/18/c_138414164.htm</a>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
